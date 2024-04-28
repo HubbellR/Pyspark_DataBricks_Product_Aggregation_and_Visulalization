@@ -7,5 +7,5 @@ This Project imports data into Databricks, where it is then analyzed and aggrega
  The result of these question were viaualized, with the public link available here: 
  https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2783078314884617/2363682595889900/7723851497645181/latest.html 
 
- This is a straightforward project which focuses on manupulating data in Databricks using Pyspark. Enjoy!
+ This is a straightforward project which focuses on manupulating data in Databricks using Pyspark. The data being the attached sales.csv.txt and menu.csv.txt files. Enjoy!
  
